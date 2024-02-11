@@ -1,6 +1,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=oguzhantarhan&include_all_commits=true&count_private=true&show_icons=true&&line_height=20title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)![](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhantarhan&layout=compact&text_color=daf7dc&bg_color=151515)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,flutter,dart,html,css,bootstrap,js,ts,nodejs,react,angular,mysql,wordpress,git" />
+  </a>
+</p>
 
 <h3 align = " center "> 🤝🏻 Feel free connect with me </h3>
 
