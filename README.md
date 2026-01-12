@@ -3,12 +3,12 @@
 
 <h3 align="center">💻 Main Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,ts,dart,html" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,ts,html" />
 </p>
 
 <h3 align="center">🧩 Other Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,python,wordpress" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,wordpress" />
 </p>
 
 <h3 align="center">🤝🏻 Feel free to connect with me</h3>
